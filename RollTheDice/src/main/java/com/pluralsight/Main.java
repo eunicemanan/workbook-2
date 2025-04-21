@@ -17,7 +17,10 @@ public class Main {
             int sum = roll1 + roll2;
 
             System.out.println("Roll" + " " + i + ":" +
-                    " " + roll1  + " + " + roll2 + " " + "Sum:" + " " + sum);
+                    " " + roll1  + " + " + roll2 + " = " + " " + sum);
+
+            if //page 81
+            
 
 
 
